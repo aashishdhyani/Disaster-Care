@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Goonj",
+    "city": "Delhi",
+    "focus": "Disaster Relief",
+    "website": "https://goonj.org",
+    "verified": true,
+    "source": "NGO Darpan"
+  },
+  {
+    "name": "GiveIndia",
+    "city": "Bangalore",
+    "focus": "Fundraising & Disaster Relief",
+    "website": "https://www.giveindia.org",
+    "verified": true,
+    "source": "NGO Darpan"
+  },
+  {
+    "name": "Smile Foundation",
+    "city": "Delhi",
+    "focus": "Healthcare & Education",
+    "website": "https://www.smilefoundationindia.org",
+    "verified": true,
+    "source": "NGO Darpan"
+  },
+  {
+    "name": "Akshaya Patra Foundation",
+    "city": "Bangalore",
+    "focus": "Food & Emergency Support",
+    "website": "https://www.akshayapatra.org",
+    "verified": true,
+    "source": "NGO Darpan"
+  },
+  {
+    "name": "HelpAge India",
+    "city": "Delhi",
+    "focus": "Elderly Care & Health",
+    "website": "https://www.helpageindia.org",
+    "verified": true,
+    "source": "NGO Darpan"
+  },
+  {
+    "name": "CARE India",
+    "city": "Delhi",
+    "focus": "Disaster Relief & Poverty",
+    "website": "https://www.careindia.org",
+    "verified": true,
+    "source": "NGO Darpan"
+  },
+  {
+    "name": "Pratham",
+    "city": "Mumbai",
+    "focus": "Education & Emergency Response",
+    "website": "https://www.pratham.org",
+    "verified": true,
+    "source": "NGO Darpan"
+  },
+  {
+    "name": "SEEDS India",
+    "city": "Delhi",
+    "focus": "Disaster Response",
+    "website": "https://www.seedsindia.org",
+    "verified": true,
+    "source": "NGO Darpan"
+  },
+  {
+    "name": "Doctors For You",
+    "city": "Mumbai",
+    "focus": "Medical Support",
+    "website": "https://www.doctorsforyou.org",
+    "verified": true,
+    "source": "NGO Darpan"
+  },
+  {
+    "name": "Indian Red Cross Society",
+    "city": "Delhi",
+    "focus": "Emergency & Disaster Relief",
+    "website": "https://indianredcross.org",
+    "verified": true,
+    "source": "NGO Darpan"
+  },
+  {
+    "name": "Oxfam India",
+    "city": "Delhi",
+    "focus": "Disaster Relief & Poverty",
+    "website": "https://www.oxfamindia.org",
+    "verified": true,
+    "source": "NGO Darpan"
+  },
+  {
+    "name": "Save the Children India",
+    "city": "Delhi",
+    "focus": "Child Protection & Emergency",
+    "website": "https://www.savethechildren.in",
+    "verified": true,
+    "source": "NGO Darpan"
+  },
+  {
+    "name": "CRY - Child Rights",
+    "city": "Mumbai",
+    "focus": "Child Welfare",
+    "website": "https://www.cry.org",
+    "verified": true,
+    "source": "NGO Darpan"
+  },
+  {
+    "name": "United Way India",
+    "city": "Mumbai",
+    "focus": "Community Support",
+    "website": "https://www.unitedwaymumbai.org",
+    "verified": true,
+    "source": "NGO Darpan"
+  },
+  {
+    "name": "Sankalp India Foundation",
+    "city": "Bangalore",
+    "focus": "Healthcare",
+    "website": "https://www.sankalpindia.net",
+    "verified": true,
+    "source": "NGO Darpan"
+  }
+]
