@@ -1,0 +1,31 @@
+[
+ {
+  "name": "Goonj",
+  "city": "New Delhi",
+  "focus": "Disaster Relief",
+  "website": "https://goonj.org",
+  "donationUrl": "https://goonj.org/donate/",
+  "verified": true,
+  "source": "Sphere India"
+},
+  {
+  
+    "name": "SEEDS India",
+    "city": "New Delhi",
+    "focus": "Disaster Management",
+    "website": "https://www.seedsindia.org",
+    "donationUrl": "https://www.seedsindia.org/donate-new/",
+    "verified": true,
+    "source": "Sphere India"
+  },
+    {
+    "name": "NEADS",
+    "city": "Assam",
+    "focus": "Disaster Resilience",
+    "website": "https://www.indiadonates.org/ngos/north-east-affected-area-development-soc",
+    "donationUrl": "https://www.indiadonates.org/donate-now",
+    "verified": true,
+    "source": "Sphere India"
+  }
+
+]
